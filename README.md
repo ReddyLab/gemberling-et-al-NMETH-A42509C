@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/369344312.svg)](https://zenodo.org/badge/latestdoi/369344312)
 # gemberling-et-al-NMETH-A42509C
 
 This is repository is intented to serve as a record of all the data processing steps and analyses performed in the manuscript NMETH-A42509C by Gemberling et al. Please contact the authors if there are sections in any particular notebook that are unclear or that could use more color. A brief defintion of the contents of each notebook is provided below: 
